@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class FindPeakElement {
     public static void main(String[] args) {
-        int[] arr ={1,3,5,2,4};
+        int[] arr ={1,2};
         System.out.println((findPeakElement(arr)));
     }
     public static int findPeakElement(int[] nums) {
